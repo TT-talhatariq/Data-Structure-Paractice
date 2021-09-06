@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f50232c1-4a3c-4881-bc22-8f240e45eca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Tree/C++/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/C++/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/ok.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/ok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/D.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/.vs/Karatsuba Algo/v14/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba Algo.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba Algo.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba Algo/Karatsuba Algo.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba Algo/Karatsuba Algo.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/.vs/Karatsuba/v14/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Debug/Karatsuba.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Debug/Karatsuba.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Debug/Karatsuba.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/Karatsuba.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Karatsuba.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/Source.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/vc140.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Debug/vc140.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Karatsuba.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Karatsuba.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Source.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba/Karatsuba/Source.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba_python/.vs/Karatsuba_python/v14/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba_python/Karatsuba_python.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba_python/Karatsuba_python/Karatsuba_python.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../3rd/My Own/DSA/Algorithms/Karatsuba Algo/Karatsuba_python/Karatsuba_python/Karatsuba_python.pyproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Study Material/Programming/.idea/Programming.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="1wo7qxIagwkPclCIkbR7o6LYN9P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f50232c1-4a3c-4881-bc22-8f240e45eca6" name="Default Changelist" comment="" />
+      <created>1629113283827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629113283827</updated>
+      <workItem from="1629113285157" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
